@@ -69,7 +69,9 @@ Wrapper Class
 <td>double</td><td>Double</td>
 </tr>
 </table>
+
 <!---Created By Daniel Michel--->
+
 #### Boxing And Un-Boxing
 Boxing is simply the Conversion from primative datatypes and their Wrapper class and vice-versa.
 Boxing can be done in 2 ways, Either explicitly using the ```.valueOf();``` method or implicitly by the compiler (Auto-Boxing).
