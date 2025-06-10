@@ -28,3 +28,6 @@ Image Augmentation involves modifying existing images in the dataset to create "
 - Wasted Compute resources 
 
 Dropout uses a probability P that is the probability that a specific neuron will be turned off during  each iteration.
+
+author: [@DanielMichel305](https://github.com/DanielMichel305)
+11/6/2025
